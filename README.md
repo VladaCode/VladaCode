@@ -1,6 +1,6 @@
 
 
-[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F7ED69&center=&vCenter=&repeat=&random=&width=435&lines=Hello%2C+my+name+is+Vlada!)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?weight=900&color=F7ED69&center=&vCenter=&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&lines=Hello%2C+my+name+is+Vlada!)
+https://readme-typing-svg.demolab.com/demo/?weight=900&color=F7ED69&center=&vCenter=&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&lines=Hello%2C+my+name+is+Vlada!
 <!--
 **VladaCode/VladaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
