@@ -2,15 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F7ED69&center=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&vCenter=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&width=435&lines=Hello%2C+my+name+is+Vlada!)](https://git.io/typing-svg)
 
+![Приветствие](https://your-svg-image-url.com) <!-- Замените на URL вашего SVG изображения -->
+
 Я фулстек разработчик с опытом работы в веб-разработке. Мои основные технологии включают JavaScript, HTML и CSS, а также я активно использую Git для управления версиями и JSON для работы с данными. Я увлечен созданием как клиентской, так и серверной части веб-приложений.
 
 ## 💻 Мой стек технологий
 
-- **Языки программирования:** JavaScript, HTML, CSS, [добавьте другие языки, если есть]
-- **Инструменты и технологии:** Git, JSON, [добавьте другие инструменты, если есть]
-- **Фреймворки и библиотеки:** [добавьте сюда ваши фреймворки и библиотеки, например, React, Node.js, Express и т.д.]
-- **Базы данных:** [добавьте базы данных, с которыми вы работаете, например, MongoDB, MySQL и т.д.]
-- **Прочее:** [добавьте сюда другие технологии, которые вы используете]
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff" alt="CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff" alt="Git" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=ffffff" alt="JSON" />
+  <!-- Добавьте другие технологии в виде значков -->
+</p>
 
 ## 🌱 Я изучаю
 
