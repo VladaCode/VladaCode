@@ -8,7 +8,7 @@
 
 <p>
   
-  <img src="[https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff](https://img.icons8.com/?size=100&id=1ZSHk8m9bk4p&format=png&color=000000)" alt="JS" />
+  <img src="![image](https://github.com/user-attachments/assets/a18badbf-a729-41fb-896c-672925630c16)" alt="JS" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff" alt="CSS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff" alt="Git" />
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=ffffff" alt="JSON" />
