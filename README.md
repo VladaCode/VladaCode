@@ -3,6 +3,44 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F7ED69&center=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&vCenter=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&width=435&lines=Hello%2C+my+name+is+Vlada!)](https://git.io/typing-svg)
 
-## 💻 Технологии и инструменты
+# Привет, я [Ваше Имя] 👋
 
-<div class="tenor-gif-embed" data-postid="24565564" data-share-method="host" data-aspect-ratio="1.46789" data-width="100%"><a href="https://tenor.com/view/coding-anime-gif-24565564">Coding Anime GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div>  
+![Приветствие](https://your-svg-image-url.com) <!-- Замените на URL вашего SVG изображения -->
+
+Я фулстек разработчик с опытом работы в веб-разработке. Мои основные технологии включают JavaScript, HTML и CSS, а также я активно использую Git для управления версиями и JSON для работы с данными. Я увлечен созданием как клиентской, так и серверной части веб-приложений.
+
+## 💻 Мой стек технологий
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff" alt="CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff" alt="Git" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=ffffff" alt="JSON" />
+  <!-- Добавьте другие технологии в виде значков -->
+</p>
+
+## 🌱 Я изучаю
+
+- [технология или язык, который вы изучаете]
+- [другая технология или язык]
+
+## 📫 Связаться со мной
+
+- [Ваш Email](mailto:ваш.email@example.com)
+- [Ваш Twitter](https://twitter.com/ваш_никнейм)
+- [Ваш LinkedIn](https://www.linkedin.com/in/ваш_профиль)
+
+## 🔗 Мои проекты
+
+- [Название проекта 1](ссылка_на_проект_1)
+- [Название проекта 2](ссылка_на_проект_2)
+- [Название проекта 3](ссылка_на_проект_3)
+
+## 📄 Резюме
+
+[Ссылка на ваше резюме или портфолио]
+
+---
+
+Спасибо за посещение моего профиля! 😊
