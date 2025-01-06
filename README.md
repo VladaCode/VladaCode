@@ -5,32 +5,7 @@
 
 ## 💻 Технологии и инструменты
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40" />
-    <p>HTML</p>
-  </div>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40" />
-    <p>CSS</p>
-  </div>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40" />
-    <p>JavaScript</p>
-  </div>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40" />
-    <p>React</p>
-  </div>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" width="40" height="40" />
-    <p>Vue.js</p>
-  </div>
-  <div>
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
-    <p>Angular</p>
-  </div>
-</div>
+<div class="tenor-gif-embed" data-postid="24565564" data-share-method="host" data-aspect-ratio="1.46789" data-width="100%"><a href="https://tenor.com/view/coding-anime-gif-24565564">Coding Anime GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p>Git, Webpack, Babel, Figma, Adobe XD</p>
 
